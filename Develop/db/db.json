@@ -1,14 +1,12 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text"
-    },
-    {
         "title": "testing",
-        "text": "more testing"
+        "text": "more testing",
+        "id": "ef3d594f-fdf2-4f58-86dd-f18f350c62df"
     },
     {
-        "title": "Wash the dog!",
-        "text": "Don't forget to wash the dog!"
+        "title": "new note",
+        "text": "eat dinner",
+        "id": "01bf3f3f-f749-461a-9ea1-bb8d8a32e07e"
     }
 ]
