@@ -1,12 +1,12 @@
 [
     {
-        "title": "testing",
-        "text": "more testing",
-        "id": "ef3d594f-fdf2-4f58-86dd-f18f350c62df"
+        "title": "New Note",
+        "text": "new note\n",
+        "id": "6c7c8c12-482e-4ba1-98fc-715c9e254f26"
     },
     {
-        "title": "new note",
-        "text": "eat dinner",
-        "id": "01bf3f3f-f749-461a-9ea1-bb8d8a32e07e"
+        "title": "Another note",
+        "text": "more notes!",
+        "id": "888f77ca-d3ff-43ce-af48-c16b68f3eb07"
     }
 ]
